@@ -6,7 +6,7 @@ import Footer from "../footer/Footer";
 
 const Home = () => {
     return (
-        <div className="text-center mt-20 font-bold">
+        <div className="text-center mt-2 font-bold">
             <Header></Header>
            <Outlet></Outlet>
 
